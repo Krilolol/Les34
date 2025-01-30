@@ -15,7 +15,7 @@ AWS - Jenkins AWS - Jenkins AWS - Jenkins
 
 3. Налаштувати Freestyle Job.
 
-    Налаштував СІ для репозиторія з проєктом на GitLab - https://gitlab.com/ukrgorban/catalogbooks; AWS - Jenkins AWS - Jenkins
+    Налаштував СІ для репозиторія з проєктом на GitLab - [https://gitlab.com/krilolol/catalogbooks]; AWS - Jenkins AWS - Jenkins
     Налаштував СD, в результаті чого запустилося 4 контейнери (frontend для каталогу книг, pg-admin для адміністрування postgres); AWS - Jenkins AWS - Jenkins AWS - Jenkins AWS - Jenkins
     Скрипт для запуску додатку:
 
